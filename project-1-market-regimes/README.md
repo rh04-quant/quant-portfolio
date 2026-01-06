@@ -8,5 +8,8 @@ Analyze market regimes and understand cross-asset behavior under different volat
 - Regime classification
 - Correlation analysis
 
-## Status
-In progress
+## Key Findings
+- Equities outperform during high-volatility regimes
+- Bonds and gold outperform during low-volatility regimes
+- Asset returns converge during medium-volatility regimes
+
